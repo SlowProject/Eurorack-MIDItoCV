@@ -10,7 +10,7 @@ A MIDI to CV eurorack module using Arduino nano
 ![alt text](https://github.com/SlowProject/Eurorack-MIDItoCV/blob/main/pics/MIDItoCV-front.jpg)
 
 OUTPUTS:  
-- Note CV output (88 keys, 1V/octave) 
+- Note CV output (88 keys, 1V/octave). Adjust the value of the NOTE_SF constant in the code for precise tunning if necessary  
 - Note priority selectable with jumper:    
 -- Highest Note: No jumper.  
 -- Lowest Note: Jumper connected to A0-GND.  
@@ -21,4 +21,3 @@ OUTPUTS:
 - Trigger output (5V, 20 msec pulse for each new key played)  
 - Gate output (5V when any key depressed)  
 - Clock output (1 clock per quarter note, 20 msec 5V pulses)
-- Adjust the value of the NOTE_SF constant in the code for precise tunning if necessary  
