@@ -1,7 +1,8 @@
 # Eurorack-MIDItoCV
 A MIDI to CV eurorack module using Arduino nano
 
-- Modified from https://github.com/elkayem/midi2cv for adapting it to Eurorack.  
+- Modified from https://github.com/elkayem/midi2cv for adapting it to Eurorack.
+- Warning! Designed to fit in Eurorack cases similar to Cre8Audio Niftycase. Does not fit in Gie-Tec and similar rails!!
 - I use TRS MIDI-IN instead of DIN5.  
 - Code by Larry McGovern: https://github.com/elkayem/midi2cv/blob/master/midi2cv.ino  
 
