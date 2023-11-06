@@ -1,4 +1,4 @@
-MIDItoCV Eurorack module-mlm vs1;;;;
+﻿MIDItoCV Eurorack module-mlm vs1;;;;
 Quantity;Designator;Name;Footprint;Comments
 1;ARDUINO_NANO;ARDUINO_NANO;COMM-TH_ARDUINO_NANO;https://es.aliexpress.com/item/1005002976480289.html 
 1;C1;100uF electrolytic, 25 or 50V;CAP-TH_BD6.3-P2.50-D1.0-FD;
@@ -15,11 +15,11 @@ Quantity;Designator;Name;Footprint;Comments
 1;NOTE_PRIORITY;HDR-M-2.54_1x3;HDR-M-2.54_1X3;use a jumper to select note priority
 1;OPTO;6N138;6N138;
 1;P1;EURORACK PWR;EURORACK HDR-IDC-2.54-2X5P;
-4;R1,R2,R3,R11;1k?;RES-TH_BD2.3-L6.5-P10.50-D0.5;
-4;R4,R5,R6,R7;10k?;RES-TH_BD2.3-L6.5-P10.50-D0.5;
-1;R8;4.7k?;RES-TH_BD2.3-L6.5-P10.50-D0.5;
-1;R9;3k?;RES-TH_BD2.3-L6.5-P10.50-D0.5;
-1;R10;470?;RES-TH_BD2.3-L6.5-P10.50-D0.5;
-1;R12;220?;RES-TH_BD2.3-L6.5-P10.50-D0.5;
+4;R1,R2,R3,R11;1kΩ;RES-TH_BD2.3-L6.5-P10.50-D0.5;
+4;R4,R5,R6,R7;10kΩ;RES-TH_BD2.3-L6.5-P10.50-D0.5;
+1;R8;4.7kΩ;RES-TH_BD2.3-L6.5-P10.50-D0.5;
+1;R9;3kΩ;RES-TH_BD2.3-L6.5-P10.50-D0.5;
+1;R10;470Ω;RES-TH_BD2.3-L6.5-P10.50-D0.5;
+1;R12;220Ω;RES-TH_BD2.3-L6.5-P10.50-D0.5;
 1;U1;LM324;DIP-14_L18.9-W6.4-P2.54-LS7.6-BL;
 1;;Stereo jack 3.5 mm, PJ-301CM;;https://es.aliexpress.com/item/33043531063.html
