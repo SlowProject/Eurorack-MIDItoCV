@@ -6,7 +6,7 @@ It uses TRS MIDI-IN, instead of DIN5.
 
 ![alt text](https://github.com/SlowProject/Eurorack-MIDItoCV/blob/main/MiditoCV-front.jpg)
 
-Note priority:
-Highest Note: No jumper.
-Lowest Note: Jumper connected to A0-GND. 
-Last Note: Jumper connected to A2-GND.
+Note priority:  
+Highest Note: No jumper.  
+Lowest Note: Jumper connected to A0-GND.  
+Last Note: Jumper connected to A2-GND.  
