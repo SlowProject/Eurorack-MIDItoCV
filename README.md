@@ -3,7 +3,8 @@ A MIDI to CV eurorack module using Arduino nano
 
 - Modified from https://github.com/elkayem/midi2cv for adapting it to Eurorack.
 - Warning! Designed to fit in Eurorack cases similar to Cre8Audio Niftycase. Due to the length of the PCB board (118 mm), it does not fit in Gie-Tec and similar rails!!
-- I use TRS MIDI-IN instead of DIN5. The TRS jack (stereo 3.5 mm jack, PJ-301CM type) is cyanoacrylate-glued on the panel, and wired to the MIDI pads in the PCB.
+- I use TRS MIDI-IN instead of DIN5. The TRS jack (stereo 3.5 mm jack, PJ-301CM type) is cyanoacrylate-glued on the panel, and wired to the MIDI pads in the PCB.  
+- The pairs of output jacks NOTE-CLOCKOUT, CONTROL-GATEOUT and VELOCITY-TRIGGEROUT share GND pad in the PCB in order to save space.  
 - Code by Larry McGovern: https://github.com/elkayem/midi2cv/blob/master/midi2cv.ino  
 
 ![alt text](https://github.com/SlowProject/Eurorack-MIDItoCV/blob/main/pics/MIDItoCV-front.jpg)
