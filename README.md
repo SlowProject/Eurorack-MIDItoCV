@@ -19,4 +19,5 @@ OUTPUTS:
 - Control Change CV outout (0 to 4V)  
 - Trigger output (5V, 20 msec pulse for each new key played)  
 - Gate output (5V when any key depressed)  
-- Clock output (1 clock per quarter note, 20 msec 5V pulses)  
+- Clock output (1 clock per quarter note, 20 msec 5V pulses)
+- Adjust the value of the NOTE_SF constant in the code for precise tunning if necessary  
