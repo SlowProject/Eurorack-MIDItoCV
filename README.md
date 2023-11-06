@@ -6,7 +6,7 @@ A MIDI to CV eurorack module using Arduino nano
 - I use TRS MIDI-IN instead of DIN5.  
 - Code by Larry McGovern: https://github.com/elkayem/midi2cv/blob/master/midi2cv.ino  
 
-![alt text](https://github.com/SlowProject/Eurorack-MIDItoCV/blob/main/MiditoCV-front.jpg)
+![alt text](https://github.com/SlowProject/Eurorack-MIDItoCV/blob/main/pics/MIDItoCV-front.jpg)
 
 OUTPUTS:  
 - Note CV output (88 keys, 1V/octave) 
