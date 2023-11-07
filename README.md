@@ -1,5 +1,5 @@
 # Eurorack-MIDItoCV
-A MIDI to CV eurorack module using Arduino nano
+A MIDI to CV eurorack module (8HP) using Arduino nano  
 
 - Modified from https://github.com/elkayem/midi2cv for adapting it to Eurorack.
 - Warning! Designed to fit in Eurorack cases similar to Cre8Audio Niftycase. Due to the length of the PCB board (118 mm), it does not fit in Gie-Tec and similar rails!!
